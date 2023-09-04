@@ -7,14 +7,13 @@
 <h1 align="center">Santander Bootcamp 2023</h1>
 <h1 align="center">Ciência de Dados com Python</h1>
 
-<h3 align="center">📇 Conecte-se comigo!</h3>
+<h3 align="center">Contato</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/monitormauricio/" target="blank"><img align="center" src="./assets/linkedin.png" alt="Mauricio De Oliveira" height="30" width="30" /></a>   <a href="mailto:manutencaomauricio81@gmail.com?" target="blank"><img align="center" src="./assets/gmail.png" alt="Gmail Mauricio De Oliveira" height="30" width="30" /></a>
-</p>
+<a href="https://oliverm1981.github.io/" target="blank"><img align="center" src="./assets/pngwing.com.png" alt="Mauricio De Oliveira" height="30" width="30" /></a>
 
 ----
 
-<h3 align="left">💻 Account Stats</h3>
+<h3 align="left">Estatisticas</h3>
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=OliverM1981&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
