@@ -1,5 +1,8 @@
 
-<img align="right" alt="Coding" widht="400" height="300" src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" />
+<img align="center" alt="Coding" widht="200" height="200" src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" />
+<br>
+<br>
+
 <h1 align="center">Santander Bootcamp 2023</h1>
 <h1 align="center">Ciêcia de Dados com Python</h1>
 <h3 align="center">Mauricio De Oliveira</h3>
