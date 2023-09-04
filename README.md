@@ -6,10 +6,9 @@
 
 <h1 align="center">Santander Bootcamp 2023</h1>
 <h1 align="center">Ciência de Dados com Python</h1>
-<h3 align="center">Mauricio De Oliveira</h3>
 
-<h3 align="left">📇 Conecte-se comigo!</h3>
-<p align="left">
+<h3 align="center">📇 Conecte-se comigo!</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/monitormauricio/" target="blank"><img align="center" src="./assets/linkedin.png" alt="Mauricio De Oliveira" height="30" width="40" /></a>   <a href="mailto:manutencaomauricio81@gmail.com?" target="blank"><img align="center" src="./assets/gmail.png" alt="Gmail Mauricio De Oliveira" height="30" width="40" /></a>
 </p>
 
