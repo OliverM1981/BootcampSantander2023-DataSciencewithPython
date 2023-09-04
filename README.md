@@ -1,14 +1,14 @@
 
-<img align="center" alt="Coding" widht="200" height="200" src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" />
+<img align="center" alt="Coding" widht="300" height="300" src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" />
 <br>
 <br>
 
 <h1 align="center">Santander Bootcamp 2023</h1>
-<h1 align="center">Ciêcia de Dados com Python</h1>
+<h1 align="center">Ciência de Dados com Python</h1>
 <h3 align="center">Mauricio De Oliveira</h3>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Santanbder+Bootcamp+2023;Ciência+de+dados+com+Python)](https://git.io/typing-svg)
-----
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Santander+Bootcamp+2023;Ciência+de+dados+com+Python)](https://git.io/typing-svg)</h3>
+
 
 <h3 align="left">📇 Conecte-se comigo!</h3>
 <p align="left">
