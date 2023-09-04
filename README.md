@@ -1,7 +1,8 @@
-
-<img align="center" alt="Coding" widht="300" height="300" src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" />
-<br>
-<br>
+<p align="center">
+  <a href="https://web.dio.me/track/71477949-f762-43c6-9bf2-9cf3d7f61d4a">
+    <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" width="200" height="250" alt="Dados com Python" style="border-radius: 50%">
+  </a>
+</p>
 
 <h1 align="center">Santander Bootcamp 2023</h1>
 <h1 align="center">Ciência de Dados com Python</h1>
@@ -9,9 +10,7 @@
 
 <h3 align="left">📇 Conecte-se comigo!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/monitormauricio/" target="blank"><img align="center" src="./assets/linkedin.png" alt="Mauricio De Oliveira" height="30" width="40" /></a>
-
-<a href="mailto:manutencaomauricio81@gmail.com?" target="blank"><img align="center" src="./assets/gmail.png" alt="Gmail Mauricio De Oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monitormauricio/" target="blank"><img align="center" src="./assets/linkedin.png" alt="Mauricio De Oliveira" height="30" width="40" /></a><a href="mailto:manutencaomauricio81@gmail.com?" target="blank"><img align="center" src="./assets/gmail.png" alt="Gmail Mauricio De Oliveira" height="30" width="40" /></a>
 </p>
 
 ----
