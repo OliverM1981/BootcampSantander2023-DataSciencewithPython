@@ -7,14 +7,11 @@
 <h1 align="center">Ciência de Dados com Python</h1>
 <h3 align="center">Mauricio De Oliveira</h3>
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Santander+Bootcamp+2023;Ciência+de+dados+com+Python)](https://git.io/typing-svg)</h3>
-
-
 <h3 align="left">📇 Conecte-se comigo!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/salustiano-bruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BrunoSalustiano" height="30" width="40" /></a>
-<a href="https://kaggle.com/brunolopessalustiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="BrunoSalustiano" height="30" width="40" /></a>
-<a href="mailto:bruno.lopes.salustiano@gmail.com?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail de BrunoSalustiano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monitormauricio/" target="blank"><img align="center" src="./assets/linkedin.png" alt="Mauricio De Oliveira" height="30" width="40" /></a>
+
+<a href="mailto:manutencaomauricio81@gmail.com?" target="blank"><img align="center" src="./assets/gmail.png" alt="Gmail Mauricio De Oliveira" height="30" width="40" /></a>
 </p>
 
 ----
@@ -22,10 +19,10 @@
 <h3 align="left">💻 Account Stats</h3>
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=BrunoSalustiano&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=OliverM1981&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
   </a>
-  <a href="https://github.com/vitorkol/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vitorkol's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorkol&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/OliverM1981itorkol/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mauricio streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OliverM1981&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
